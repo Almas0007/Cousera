@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> ... Utepov Almas Aibynuly  9c27de09  ... </title>
+<title>9c27de09</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
